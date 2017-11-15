@@ -42,4 +42,4 @@ Coinb.in supports a number of key features such as:
 - Replace by fee (RBF) Support
 - Segwit support
 
-Donate to 1CWHWkTWaq1K5hevimJia3cyinQsrgXUvg to see more development!
+Donate to 1CL95q1QBsRfhCfGTqvneFkKxpunKRM4G9 to see more development!
